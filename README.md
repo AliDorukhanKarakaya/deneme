@@ -1,1 +1,1 @@
-# deneme
+# patika.dev
